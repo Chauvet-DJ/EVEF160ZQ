@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.4 - EVE F-160ZQ](https://github.com/Chauvet-DJ/EVEF160ZQ/blob/ba64e11d5dae52bab78cae2ceac3a16b2982d276/Firmware/V1.0.4.zip)
+- Corrected a static color discrepancy
+  
 [V1.0.2 - EVE F-160ZQ](https://github.com/Chauvet-DJ/EVEF160ZQ/blob/f0f591855910ab827cf7a4b818960200599acc0c/Firmware/V1.0.2.zip)
 - Fixed a bug with master/slave dimming
   
